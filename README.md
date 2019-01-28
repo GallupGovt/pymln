@@ -1,7 +1,9 @@
 # pymln
-Python implementation of unsupervised semantic parsing and markov logic network knowledgebase induction.
+Python implementation of unsupervised semantic parsing and markov logic network knowledgebase induction. This work is funded through DARPA’s <a href='https://www.darpa.mil/program/automating-scientific-knowledge-extraction'>ASKE</a> program () as part of Gallup's <a href='https://github.com/GallupGovt/multivac'>MULTIVAC</a> project.
 
-This software is derived from the USP (Beta Version) Software by the University of Washington, available here: http://alchemy.cs.washington.edu/usp/ 
+## This is a work in progress. 
+
+## This software is derived from the USP (Beta Version) Software by the University of Washington, available here: http://alchemy.cs.washington.edu/usp/ 
 
 
 
