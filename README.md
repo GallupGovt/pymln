@@ -3,7 +3,7 @@ Python implementation of unsupervised semantic parsing and markov logic network 
 
 ## This is a work in progress. 
 
-## This software is derived from the USP (Beta Version) Software by the University of Washington, available here: http://alchemy.cs.washington.edu/usp/ 
+This software is derived from the USP (Beta Version) Software by the University of Washington, available here: http://alchemy.cs.washington.edu/usp/ 
 
 
 
